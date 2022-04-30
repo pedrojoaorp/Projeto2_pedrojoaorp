@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import { FinalTable } from './FinalTable';
 import { userData } from './userData';
 
 function App() {
