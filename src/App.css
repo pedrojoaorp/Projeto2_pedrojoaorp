@@ -13,7 +13,7 @@ url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=sw
     --edit-button-color: #ffa207;
     --delete-button-color: #dc3545;
     --pagination-active-bg: #007bff;
-    --header-bg-image: url(C:\Users\Usuário\reactproject1\recursos\img_bg_backoffice_usuario.jpg)
+    --header-bg-image: url(./img_bg_backoffice_usuario.jpg)
 }
 
 * {
